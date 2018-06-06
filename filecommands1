@@ -1,0 +1,11 @@
+cd /c goes to c folder
+cd TestGit/
+git add test.txt   to add test.txt in TestGit
+git commit -m "first commit" test.txt        to commit the file to the git
+git push -u origin master we can transfer the files to the github
+if u want to edit and commit the file to the git
+git commit -m "send commit" test.txt
+if u want to push to the github u can dosame as 
+git push -u origin master
+if u want to see the status of the files 
+git status
